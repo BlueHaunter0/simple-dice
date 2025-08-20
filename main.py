@@ -16,6 +16,3 @@ def custom_chance(percentage):
     else:
         print("you rolled 6")
 custom_chance(16)
-
-
-i did it like this
